@@ -25,7 +25,8 @@ The app consists of three microservices:
 
 ## 🚀 Project Architecture
 
-![CI/CD Architecture Diagram](./diagram.png)
+![image](https://github.com/user-attachments/assets/ade7b319-dc76-418f-93dc-7f33bbcd242d)
+
 
 ---
 
